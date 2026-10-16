@@ -1,0 +1,6 @@
+{
+  "name": "TempleAssist - AP Temple Darshan, Divine Tours & Prasadam Delivery",
+  "description": "Comprehensive divine assistance for temple darshans across Andhra Pradesh, spiritual tour packages, online pooja bookings, and door-to-door consecrated prasadam delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
